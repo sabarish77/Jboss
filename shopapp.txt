@@ -21,10 +21,16 @@ install splunk agent
 
 }
 
+
 install controlm
 
 {
 
 /home/fsgapp/controlm
+
+
+{
+
+add logrolling
 
 }
