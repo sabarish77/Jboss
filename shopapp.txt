@@ -5,3 +5,11 @@ install jboss intance
 /usr/jboss/jbosseap/ma100mlvshp001_m1
 
 }
+
+install dynatrace
+
+{
+
+/www/apps/dynatrace7.0.2
+
+}
