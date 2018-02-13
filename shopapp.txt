@@ -1,0 +1,7 @@
+install jboss intance 
+
+{
+
+/usr/jboss/jbosseap/ma100mlvshp001_m1
+
+}
