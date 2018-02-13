@@ -13,3 +13,10 @@ install dynatrace
 /www/apps/dynatrace7.0.2
 
 }
+install splunk agent
+
+{
+
+/opts/splunk/splunk6.6
+
+}
