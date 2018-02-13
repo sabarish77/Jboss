@@ -20,3 +20,10 @@ install splunk agent
 /opts/splunk/splunk6.6
 
 }
+
+
+{
+
+add logrolling
+
+}
