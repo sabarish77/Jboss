@@ -1,0 +1,5 @@
+#bash
+
+"It servers home page with style and content"
+
+
